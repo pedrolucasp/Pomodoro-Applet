@@ -1,0 +1,11 @@
+POMODORO APPLET 
+
+Created by Pedro Lucas Porcellis (pLp) - @pedrolucasp - pedrolucasporcellis@gmail.com
+
+RUNNING
+
+To run Pomodoro-Applet just enter in the folder where you extracted it, and at the terminal type:
+"sudo python install.py"
+
+After install you can run simple typing:
+"pomodoro-applet"
